@@ -1,0 +1,17 @@
+[
+  {
+     "id": "col-101",
+     "name": "AMU",
+     "location": "Uttar Pradesh",
+     "rating":5.0,
+     "studentId": "S1002"
+  },
+  
+  {
+     "id": "col-102",
+     "name": "CUSAT",
+     "location": "Kerala",
+     "rating":4.5,
+     "studentId": "S1003"
+  }
+]
